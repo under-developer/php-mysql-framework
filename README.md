@@ -1,2 +1,3 @@
-# php-mysql-framework
+# MySQL Framework (PHP)
 A project that allows you to easily and quickly write / run mysql queries with php
+soon...
